@@ -1,24 +1,109 @@
-[
-  {
-    "name": "LIVE | BPL 2024",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-    "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1707167345:KeyName=tsports-ed25519-01:Signature=uXYYbceTmv7h6fSEIS1hyf9XkIy1tqd7T4_fZsmRvIhhT0ulF44ZmvlULqvoXLnOcHMnS-3-KgNqVUezKkSZAA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "T Sports Live",
-    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1707167345:KeyName=tsports-ed25519-01:Signature=uXYYbceTmv7h6fSEIS1hyf9XkIy1tqd7T4_fZsmRvIhhT0ulF44ZmvlULqvoXLnOcHMnS-3-KgNqVUezKkSZAA",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png" group-title="flowerbik - English",Star Sports 1 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=star1in
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" group-title="flowerbik - Hindi",Star Sports 1 Hindi HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=starhindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png" group-title="flowerbik - English",PTV Sports
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=ptvpk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" group-title="flowerbik - English",Willow HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=willowusa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" group-title="flowerbik - English",Super Sport Cricket
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supercricket
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" group-title="flowerbik - English",TEN Sports Pakistan
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=tenspk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" group-title="flowerbik - English",Willow Xtra
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=willowextra
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png" group-title="flowerbik - English",A Sports HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=asportshd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png" group-title="flowerbik - English",Fox Cricket 501 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox501
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png" group-title="flowerbik - English",Sky Sports Main Event
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png" group-title="flowerbik - English",Sky Sports Cricket
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skyscric
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png" group-title="flowerbik - English",Sky Sports Action
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysact
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png" group-title="flowerbik - English",Sky Sports Golf
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysgol
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png" group-title="flowerbik - English",Sky Sports Premier League
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysprem
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png" group-title="flowerbik - English",Sky Sports Football
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysfott
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png" group-title="flowerbik - English",Sky Sports Arena
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysare
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png" group-title="flowerbik - English",Sky Sports F1
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysfor1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png" group-title="flowerbik - English",Sky Sports Mix
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skysmixx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png" group-title="flowerbik - English",Sky Sports News
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=skyspnews
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png" group-title="flowerbik - English",BT Sport 1
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bbtsp1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png" group-title="flowerbik - English",BT Sport 2
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bbtsp2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png" group-title="flowerbik - English",BT Sport 3
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bbtsp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png" group-title="flowerbik - English",BT Sport 4
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bbtespn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png" group-title="flowerbik - English",LaLiga Tv
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=laligauk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png" group-title="flowerbik - English",EuroSport 1
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=eurosp1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png" group-title="flowerbik - English",EuroSport 2
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=eurosp2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="flowerbik - English",Fox Sports 502 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox5022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="flowerbik - English",Fox Sports 503 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox503
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="flowerbik - English",Fox Sports 504 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox504
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="flowerbik - English",Fox Sports 505 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox505
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="flowerbik - English",Fox Sports 506 HD
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=fox506
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRNmBsg7/WWE.png" group-title="flowerbik - English",WWE Network
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=wwe
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" group-title="flowerbik - English",Premier Sports 1
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=premieruk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" group-title="flowerbik - English",Premier Sports 2
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=hdchnl2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QtbL1zg/Bein-Sports-Premium-1.png" group-title="flowerbik - English",Bein Sports 1 Premium
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein1prem
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q2Mps52/Bein-Sports-Premium-2.png" group-title="flowerbik - English",Bein Sports 2 Premium
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein2prem
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png" group-title="flowerbik - English",Bein Sports 3 Premium
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein3prem
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" group-title="flowerbik - English",SuperSport Football
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=superfotball
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" group-title="flowerbik - English",SuperSport Premier
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=superpremier
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png" group-title="flowerbik - English",SuperSport Laliga
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=superlaliga
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgznPNgS/Super-Sport-Rugby.png" group-title="flowerbik - English",SuperSport Rugby
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supersrugby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png" group-title="flowerbik - English",SuperSport Grandstand
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supergrandstand
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFDnDF6/Super-Sport-Tennis.png" group-title="flowerbik - English",SuperSport Tennis
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supertennis
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png" group-title="flowerbik - English",SuperSport Action
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=superactions
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncgVSqDn/Super-Sport-Golf.png" group-title="flowerbik - English",SuperSport Golf
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supergolf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png" group-title="flowerbik - English",SuperSport Maximo
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=supermeximo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJPp7cgn/Bein-Sports-1-FR.png" group-title="flowerbik - French",Bein Sports 1 FR
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein1fr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZYvMCbP/Bein-Sports-2-FR.png" group-title="flowerbik - French",Bein Sports 2 FR
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein2fr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VKp41R/Bein-Sports-3-FR.png" group-title="flowerbik - French",Bein Sports 3 FR
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=bein3fr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png" group-title="flowerbik - English",SuperSport Variety 1
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=hdchnl6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png" group-title="flowerbik - English",SuperSport Variety 2
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=hdchnl7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png" group-title="flowerbik - English",SuperSport Variety 3
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=hdchnl8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" group-title="flowerbik - English",SuperSport Variety 4
+https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=hdchnl9
